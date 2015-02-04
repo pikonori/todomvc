@@ -87,7 +87,7 @@ require([
      * /
      * /active
      * /completed
-     * の3個は確実に存在するので、それをどうやって切りわけているのかが不思議。
+     * の3個
      *
      */
 	new Router({ controller: Controller });
